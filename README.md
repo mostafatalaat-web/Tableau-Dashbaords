@@ -21,3 +21,5 @@ Dynamic slicers for Region, Category, Customer Segment, and Time Period.
 Tableau Desktop for dashboard creation
 Excel/CSV dataset for source data
 Tableau Prep (Optional) for data cleaning
+<img width="1917" height="998" alt="Screenshot 2025-10-10 193720" src="https://github.com/user-attachments/assets/3a2cfe49-69f9-4dbf-8899-15c3e0bd30fa" />
+<img width="1915" height="993" alt="Screenshot 2025-10-10 193747" src="https://github.com/user-attachments/assets/69677499-87ef-40eb-ac3b-327c688b38fa" />
